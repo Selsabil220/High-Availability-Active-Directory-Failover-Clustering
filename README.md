@@ -6,7 +6,6 @@ using Hyper-V Failover Clustering on Windows Server 2022. The goal was to ensure
 uninterrupted access to Active Directory Domain Services (AD DS) even in the 
 event of a server failure.
 
->  Academic Project — System Administration Course
 
 ## Technologies Used
 - Windows Server 2022
